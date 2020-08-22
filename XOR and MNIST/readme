@@ -1,0 +1,5 @@
+please create a folder DATA
+and store MNIST and XOR pkl files in mnist and xor folders respectively.
+it should look like DATA/mnist/ and DATA/xor
+
+thanks
